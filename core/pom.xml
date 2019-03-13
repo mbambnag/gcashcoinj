@@ -21,15 +21,15 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.bitcoinj</groupId>
-        <artifactId>digitalcoinj-parent</artifactId>
+        <artifactId>gcashcoinj-parent</artifactId>
         <version>0.13.4</version>
     </parent>
 
-    <artifactId>digitalcoinj-core</artifactId>
+    <artifactId>gcashcoinj-core</artifactId>
 
 
     <name>digitalcoinj</name>
-    <description>A Java digitalcoin library</description>
+    <description>A Java gcashcoin library</description>
 
     <packaging>jar</packaging>
 
